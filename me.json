@@ -1,0 +1,14 @@
+{
+	"name": "Bryon Nicoson",
+	"age": 47,
+	"year_of_birth": 1969,
+	"hobbies": ["board games", "reading", "dogs", "writing"],
+	"likes_pizze": true,
+	"favorite_pokemon": "Bulbasaur",
+	"pokemon_abilities": ["chlorophyll", "captivate"],
+	"temp_barcelona": 65,
+	"temp_boston": 78,
+	"temp_shanghai": 79,
+	"temp_mombasa": 72,
+	"temp_north_pole": 43
+}
